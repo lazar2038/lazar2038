@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lazar2038
-- 👀 I’m interested in Evolution CMS (MODx Evo), MVC, PHP
-- 🌱 I’m currently learning Evo 3.x, mvc, patterns of programming. 
+- 👋 Hi, I’m Konstantin aka @lazar2038 
+- ✔️ I'm specializing on Evolution CMS (MODx Evo), PHP
+- 🌱 I’m currently learning Evo 3.x, MVC, patterns of programming, GIT. 
 - 📫 How to reach me suxxel@mail.ru
